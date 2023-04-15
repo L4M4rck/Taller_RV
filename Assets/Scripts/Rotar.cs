@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Esfera : MonoBehaviour
+public class Rotar : MonoBehaviour
 {
     public float velocidad;
     // Start is called before the first frame update
